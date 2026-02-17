@@ -1,0 +1,13 @@
+COMANDO PARA INGRESAR A PG: psql -U postgres -h localhost
+
+consultar lista de bd: \l
+
+conectarse a la bd: \c nodepg
+
+ver las tablas de la bd: \dt
+
+SLASH INVERTIDO : ALT + 92
+
+CANCELAR NODE: CTRL + C 
+
+BUSCAR ARCHIVOS: CTRL + P
